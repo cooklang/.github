@@ -40,7 +40,7 @@ Imagine a recipe that adapts in real-time based on what’s in your fridge, your
 
 Recipes should be as easy to collect and use as bookmarks—no more manual retyping.
 
-10._ Cooking is Creative and Iterative_
+10. _Cooking is Creative and Iterative_
 
 Every meal is a version update. Your recipe history should reflect your personal evolution as a cook.
 
