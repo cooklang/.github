@@ -5,4 +5,5 @@ Useful links:
 - [Discord server](https://discord.gg/fUVVvUzEEK), ask for help or say hello fellow cooks
 - [Spec discussions](https://github.com/cooklang/spec/discussions), suggest a new idea or give your opinion on future development
 - [Help needed](https://github.com/cooklang/fine_tune), help us validate recipes, so we can improve AI conversion tools.
+- [Awesome Cooklang](https://github.com/cooklang/awesome-cooklang), explore projects and libraries that work with Cooklang
 
